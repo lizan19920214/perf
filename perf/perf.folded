@@ -1,0 +1,7 @@
+test;__libc_start_main;main 8777777690
+test;__libc_start_main;main;apic_timer_interrupt;smp_apic_timer_interrupt;irq_exit;do_softirq;call_softirq;__do_softirq 10101010
+test;__libc_start_main;main;func_a 2898989870
+test;__libc_start_main;main;func_a;apic_timer_interrupt;smp_apic_timer_interrupt;irq_exit;do_softirq;call_softirq;__do_softirq 10101010
+test;__libc_start_main;main;func_a;func_d 1383838370
+test;__libc_start_main;main;func_b 5989898930
+test;__libc_start_main;main;func_c 10919191810
